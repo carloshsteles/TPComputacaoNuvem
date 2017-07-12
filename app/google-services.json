@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "685423700061",
+    "firebase_url": "https://fir-myhubnotification.firebaseio.com",
+    "project_id": "fir-myhubnotification",
+    "storage_bucket": "fir-myhubnotification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685423700061:android:07e376a8176241ee",
+        "android_client_info": {
+          "package_name": "graduation.pos.myhubnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685423700061-mu5cjtspim3j5sp7ui8vk45663cd10ol.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp_8CHn_a1ZDQszhRxTxEWhG0B4dnvHrQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
