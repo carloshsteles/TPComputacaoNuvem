@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\carlo\\AndroidStudioProjects\\MyHubNotification\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-bn\\values-bn.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 265,
+                    "endOffset": 366
+                },
+                "from": {
+                    "file": "C:\\Users\\carlo\\.android\\build-cache\\9dc31c8ed42a641b872529053620cbf8bf5b15be\\output\\res\\values-bn\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 343,
+                        "endColumn": 265,
+                        "endOffset": 604
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingLeft="5dp"
+    android:paddingRight="5dp"
+    android:paddingTop="10dp"
+    android:paddingBottom="10dp"
+    tools:context="graduation.pos.myhubnotification.MyChatActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="411dp"
+        android:orientation="horizontal"
+        android:paddingRight="50dp"
+        android:paddingBottom="10dp"
+        >
+
+        <EditText
+            android:id="@+id/edtChatPrincipal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dip"
+            android:layout_marginRight="10dip"
+            android:background="#e3dfb3"
+            android:gravity="top"
+            android:lines="20"
+            android:editable="false"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingLeft="50dp"
+        android:paddingBottom="0dp"
+        android:weightSum="1">
+
+        <EditText
+            android:id="@+id/edtChatResposta"
+            android:layout_width="match_parent"
+            android:layout_height="45dp"
+            android:layout_marginLeft="10dip"
+            android:layout_marginRight="10dip"
+            android:background="#e3dfb3"
+            android:lines="1"
+            android:layout_weight="0.81"
+            android:inputType="number"/>
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btnChatEnviaMsg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Enviar" />
+
+</LinearLayout>

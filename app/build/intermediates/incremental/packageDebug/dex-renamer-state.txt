@@ -1,0 +1,7 @@
+#Mon Jul 10 20:51:08 BRT 2017
+base.0=C\:\\Users\\carlo\\AndroidStudioProjects\\MyHubNotification\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_a737daff4a12f522a61c1404b2da7b4b63a4a48b
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\carlo\\AndroidStudioProjects\\MyHubNotification\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_72fc0740c2e39f89846e29a68ef24821f471de67\\classes.dex
+base.1=C\:\\Users\\carlo\\AndroidStudioProjects\\MyHubNotification\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_72fc0740c2e39f89846e29a68ef24821f471de67
+file.0=C\:\\Users\\carlo\\AndroidStudioProjects\\MyHubNotification\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_a737daff4a12f522a61c1404b2da7b4b63a4a48b\\classes.dex

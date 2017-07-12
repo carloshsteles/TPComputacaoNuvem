@@ -1,0 +1,284 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\carlo\AndroidStudioProjects\MyHubNotification\app\src\main\AndroidManifest.xml:2:1-75:12
+	package
+		ADDED from C:\Users\carlo\AndroidStudioProjects\MyHubNotification\app\src\main\AndroidManifest.xml:3:5-47
+		INJECTED from C:\Users\carlo\AndroidStudioProjects\MyHubNotification\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\carlo\AndroidStudioProjects\MyHubNotification\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\carlo\AndroidStudioProjects\MyHubNotification\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\carlo\AndroidStudioProjects\MyHubNotification\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\carlo\AndroidStudioProjects\MyHubNotification\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\carlo\AndroidStudioProjects\MyHubNotification\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\carlo\AndroidStudioProjects\MyHubNotification\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\carlo\AndroidStudioProjects\MyHubNotification\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\carlo\.android\build-cache\8a22c8c5f62ac1bfb7fdd7b6c53484bc12a44b26\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.1] C:\Users\carlo\.android\build-cache\2cf6add56d3a520f0bf91e2f36c709fed99a1686\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\carlo\.android\build-cache\44a7ed80339a6fce70a2e8504626f997426829f8\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from C:\Users\carlo\AndroidStudioProjects\MyHubNotification\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\Users\carlo\AndroidStudioProjects\MyHubNotification\app\src\main\AndroidManifest.xml:7:5-72:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\carlo\.android\build-cache\ccd1762f9b24535b4b3e9bc6633e281d1c9ed311\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\carlo\.android\build-cache\f7f64a2bf7183ca9c6b0b3eb67ac595b1edb9653\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\carlo\.android\build-cache\53371a7a83de0cc506d26775eeb9d2e65f87fef4\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\carlo\.android\build-cache\b8af18949eb88282934d85968da48ae75e3fcff2\output\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-messaging:9.6.1] C:\Users\carlo\.android\build-cache\754b962e82b9fe859e2006eb9795c268a2d7fd3c\output\AndroidManifest.xml:19:5-29:19
+MERGED from [com.firebase:firebase-jobdispatcher:0.6.0] C:\Users\carlo\.android\build-cache\88517245ae154fa164124009560fc1bd309add36\output\AndroidManifest.xml:26:5-40:19
+MERGED from [com.google.firebase:firebase-core:9.6.1] C:\Users\carlo\.android\build-cache\9987c16ddb2c659366ac6ace5893aaad419aba9d\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\carlo\.android\build-cache\8a22c8c5f62ac1bfb7fdd7b6c53484bc12a44b26\output\AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.1] C:\Users\carlo\.android\build-cache\2cf6add56d3a520f0bf91e2f36c709fed99a1686\output\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\carlo\.android\build-cache\44a7ed80339a6fce70a2e8504626f997426829f8\output\AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-common:9.6.1] C:\Users\carlo\.android\build-cache\8b13c6dff866aac9d6a546acf55bf5786fdc2eff\output\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:9.6.1] C:\Users\carlo\.android\build-cache\3db3be725bac0498785816314451c5356dfc4406\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:9.6.1] C:\Users\carlo\.android\build-cache\9dc31c8ed42a641b872529053620cbf8bf5b15be\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\carlo\.android\build-cache\3600950da9cae7fa42f52bec87852f6883a744dc\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\carlo\.android\build-cache\efe31f6247cba694dc72c9b3f35268fa38b40ab2\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\carlo\.android\build-cache\8de981f972ad2d03601c12b6987fa440775a261e\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\carlo\.android\build-cache\cf1ce9f3b567774c354632180d98b16054e98090\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\carlo\.android\build-cache\c0f890bcec2d004ba1e9c6c5173fb73787664583\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\carlo\.android\build-cache\daae2e10144bbef3da3f9f041174f249ecdfb51f\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\carlo\AndroidStudioProjects\MyHubNotification\app\src\main\AndroidManifest.xml:10:9-41
+	android:supportsRtl
+		ADDED from C:\Users\carlo\AndroidStudioProjects\MyHubNotification\app\src\main\AndroidManifest.xml:12:9-35
+	android:roundIcon
+		ADDED from C:\Users\carlo\AndroidStudioProjects\MyHubNotification\app\src\main\AndroidManifest.xml:11:9-54
+	android:allowBackup
+		ADDED from C:\Users\carlo\AndroidStudioProjects\MyHubNotification\app\src\main\AndroidManifest.xml:8:9-35
+	android:icon
+		ADDED from C:\Users\carlo\AndroidStudioProjects\MyHubNotification\app\src\main\AndroidManifest.xml:9:9-43
+	android:theme
+		ADDED from C:\Users\carlo\AndroidStudioProjects\MyHubNotification\app\src\main\AndroidManifest.xml:13:9-40
+activity#graduation.pos.myhubnotification.MyMainActivity
+ADDED from C:\Users\carlo\AndroidStudioProjects\MyHubNotification\app\src\main\AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from C:\Users\carlo\AndroidStudioProjects\MyHubNotification\app\src\main\AndroidManifest.xml:14:19-49
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\carlo\AndroidStudioProjects\MyHubNotification\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\carlo\AndroidStudioProjects\MyHubNotification\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from C:\Users\carlo\AndroidStudioProjects\MyHubNotification\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\carlo\AndroidStudioProjects\MyHubNotification\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from C:\Users\carlo\AndroidStudioProjects\MyHubNotification\app\src\main\AndroidManifest.xml:18:27-74
+service#graduation.pos.myhubnotification.MyFirebaseMessagingService
+ADDED from C:\Users\carlo\AndroidStudioProjects\MyHubNotification\app\src\main\AndroidManifest.xml:47:9-51:19
+	android:name
+		ADDED from C:\Users\carlo\AndroidStudioProjects\MyHubNotification\app\src\main\AndroidManifest.xml:47:18-60
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from C:\Users\carlo\AndroidStudioProjects\MyHubNotification\app\src\main\AndroidManifest.xml:48:13-50:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from C:\Users\carlo\AndroidStudioProjects\MyHubNotification\app\src\main\AndroidManifest.xml:49:17-78
+	android:name
+		ADDED from C:\Users\carlo\AndroidStudioProjects\MyHubNotification\app\src\main\AndroidManifest.xml:49:25-75
+service#graduation.pos.myhubnotification.MyFirebaseInstanceIDService
+ADDED from C:\Users\carlo\AndroidStudioProjects\MyHubNotification\app\src\main\AndroidManifest.xml:54:9-58:19
+	android:name
+		ADDED from C:\Users\carlo\AndroidStudioProjects\MyHubNotification\app\src\main\AndroidManifest.xml:54:18-61
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from C:\Users\carlo\AndroidStudioProjects\MyHubNotification\app\src\main\AndroidManifest.xml:55:13-57:29
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from C:\Users\carlo\AndroidStudioProjects\MyHubNotification\app\src\main\AndroidManifest.xml:56:17-80
+	android:name
+		ADDED from C:\Users\carlo\AndroidStudioProjects\MyHubNotification\app\src\main\AndroidManifest.xml:56:25-77
+service#graduation.pos.myhubnotification.MyJobService
+ADDED from C:\Users\carlo\AndroidStudioProjects\MyHubNotification\app\src\main\AndroidManifest.xml:60:9-66:19
+	android:exported
+		ADDED from C:\Users\carlo\AndroidStudioProjects\MyHubNotification\app\src\main\AndroidManifest.xml:62:13-37
+	android:name
+		ADDED from C:\Users\carlo\AndroidStudioProjects\MyHubNotification\app\src\main\AndroidManifest.xml:61:13-41
+intent-filter#com.firebase.jobdispatcher.ACTION_EXECUTE
+ADDED from C:\Users\carlo\AndroidStudioProjects\MyHubNotification\app\src\main\AndroidManifest.xml:63:13-65:29
+action#com.firebase.jobdispatcher.ACTION_EXECUTE
+ADDED from C:\Users\carlo\AndroidStudioProjects\MyHubNotification\app\src\main\AndroidManifest.xml:64:17-84
+	android:name
+		ADDED from C:\Users\carlo\AndroidStudioProjects\MyHubNotification\app\src\main\AndroidManifest.xml:64:25-81
+activity#graduation.pos.myhubnotification.MyRegistrationFormActivity
+ADDED from C:\Users\carlo\AndroidStudioProjects\MyHubNotification\app\src\main\AndroidManifest.xml:68:9-64
+	android:name
+		ADDED from C:\Users\carlo\AndroidStudioProjects\MyHubNotification\app\src\main\AndroidManifest.xml:68:19-61
+activity#graduation.pos.myhubnotification.MyChatActivity
+ADDED from C:\Users\carlo\AndroidStudioProjects\MyHubNotification\app\src\main\AndroidManifest.xml:69:9-52
+	android:name
+		ADDED from C:\Users\carlo\AndroidStudioProjects\MyHubNotification\app\src\main\AndroidManifest.xml:69:19-49
+activity#graduation.pos.myhubnotification.MyListGunsActivity
+ADDED from C:\Users\carlo\AndroidStudioProjects\MyHubNotification\app\src\main\AndroidManifest.xml:70:9-65
+	android:name
+		ADDED from C:\Users\carlo\AndroidStudioProjects\MyHubNotification\app\src\main\AndroidManifest.xml:70:19-53
+uses-sdk
+INJECTED from C:\Users\carlo\AndroidStudioProjects\MyHubNotification\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\carlo\.android\build-cache\ccd1762f9b24535b4b3e9bc6633e281d1c9ed311\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\carlo\.android\build-cache\f7f64a2bf7183ca9c6b0b3eb67ac595b1edb9653\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\carlo\.android\build-cache\53371a7a83de0cc506d26775eeb9d2e65f87fef4\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\carlo\.android\build-cache\b8af18949eb88282934d85968da48ae75e3fcff2\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-messaging:9.6.1] C:\Users\carlo\.android\build-cache\754b962e82b9fe859e2006eb9795c268a2d7fd3c\output\AndroidManifest.xml:17:5-42
+MERGED from [com.firebase:firebase-jobdispatcher:0.6.0] C:\Users\carlo\.android\build-cache\88517245ae154fa164124009560fc1bd309add36\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.google.firebase:firebase-core:9.6.1] C:\Users\carlo\.android\build-cache\9987c16ddb2c659366ac6ace5893aaad419aba9d\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\carlo\.android\build-cache\8a22c8c5f62ac1bfb7fdd7b6c53484bc12a44b26\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.1] C:\Users\carlo\.android\build-cache\2cf6add56d3a520f0bf91e2f36c709fed99a1686\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\carlo\.android\build-cache\44a7ed80339a6fce70a2e8504626f997426829f8\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-common:9.6.1] C:\Users\carlo\.android\build-cache\8b13c6dff866aac9d6a546acf55bf5786fdc2eff\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.6.1] C:\Users\carlo\.android\build-cache\3db3be725bac0498785816314451c5356dfc4406\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.6.1] C:\Users\carlo\.android\build-cache\9dc31c8ed42a641b872529053620cbf8bf5b15be\output\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\carlo\.android\build-cache\3600950da9cae7fa42f52bec87852f6883a744dc\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\carlo\.android\build-cache\efe31f6247cba694dc72c9b3f35268fa38b40ab2\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\carlo\.android\build-cache\8de981f972ad2d03601c12b6987fa440775a261e\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\carlo\.android\build-cache\cf1ce9f3b567774c354632180d98b16054e98090\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\carlo\.android\build-cache\c0f890bcec2d004ba1e9c6c5173fb73787664583\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\carlo\.android\build-cache\daae2e10144bbef3da3f9f041174f249ecdfb51f\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\carlo\.android\build-cache\ccd1762f9b24535b4b3e9bc6633e281d1c9ed311\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\carlo\AndroidStudioProjects\MyHubNotification\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\carlo\AndroidStudioProjects\MyHubNotification\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\carlo\AndroidStudioProjects\MyHubNotification\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\carlo\AndroidStudioProjects\MyHubNotification\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\carlo\.android\build-cache\ccd1762f9b24535b4b3e9bc6633e281d1c9ed311\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\carlo\.android\build-cache\f7f64a2bf7183ca9c6b0b3eb67ac595b1edb9653\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\carlo\.android\build-cache\53371a7a83de0cc506d26775eeb9d2e65f87fef4\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\carlo\.android\build-cache\3600950da9cae7fa42f52bec87852f6883a744dc\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\carlo\.android\build-cache\efe31f6247cba694dc72c9b3f35268fa38b40ab2\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\carlo\.android\build-cache\8de981f972ad2d03601c12b6987fa440775a261e\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\carlo\.android\build-cache\cf1ce9f3b567774c354632180d98b16054e98090\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\carlo\.android\build-cache\c0f890bcec2d004ba1e9c6c5173fb73787664583\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\carlo\.android\build-cache\daae2e10144bbef3da3f9f041174f249ecdfb51f\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\carlo\.android\build-cache\ccd1762f9b24535b4b3e9bc6633e281d1c9ed311\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\carlo\.android\build-cache\ccd1762f9b24535b4b3e9bc6633e281d1c9ed311\output\AndroidManifest.xml:26:9-47
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:9.6.1] C:\Users\carlo\.android\build-cache\754b962e82b9fe859e2006eb9795c268a2d7fd3c\output\AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:9.6.1] C:\Users\carlo\.android\build-cache\754b962e82b9fe859e2006eb9795c268a2d7fd3c\output\AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:9.6.1] C:\Users\carlo\.android\build-cache\754b962e82b9fe859e2006eb9795c268a2d7fd3c\output\AndroidManifest.xml:23:18-87
+service#com.firebase.jobdispatcher.GooglePlayReceiver
+ADDED from [com.firebase:firebase-jobdispatcher:0.6.0] C:\Users\carlo\.android\build-cache\88517245ae154fa164124009560fc1bd309add36\output\AndroidManifest.xml:32:9-39:19
+	android:exported
+		ADDED from [com.firebase:firebase-jobdispatcher:0.6.0] C:\Users\carlo\.android\build-cache\88517245ae154fa164124009560fc1bd309add36\output\AndroidManifest.xml:34:13-36
+	android:permission
+		ADDED from [com.firebase:firebase-jobdispatcher:0.6.0] C:\Users\carlo\.android\build-cache\88517245ae154fa164124009560fc1bd309add36\output\AndroidManifest.xml:35:13-93
+	android:name
+		ADDED from [com.firebase:firebase-jobdispatcher:0.6.0] C:\Users\carlo\.android\build-cache\88517245ae154fa164124009560fc1bd309add36\output\AndroidManifest.xml:33:13-73
+intent-filter#com.google.android.gms.gcm.ACTION_TASK_READY
+ADDED from [com.firebase:firebase-jobdispatcher:0.6.0] C:\Users\carlo\.android\build-cache\88517245ae154fa164124009560fc1bd309add36\output\AndroidManifest.xml:36:13-38:29
+action#com.google.android.gms.gcm.ACTION_TASK_READY
+ADDED from [com.firebase:firebase-jobdispatcher:0.6.0] C:\Users\carlo\.android\build-cache\88517245ae154fa164124009560fc1bd309add36\output\AndroidManifest.xml:37:17-87
+	android:name
+		ADDED from [com.firebase:firebase-jobdispatcher:0.6.0] C:\Users\carlo\.android\build-cache\88517245ae154fa164124009560fc1bd309add36\output\AndroidManifest.xml:37:25-84
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\carlo\.android\build-cache\8a22c8c5f62ac1bfb7fdd7b6c53484bc12a44b26\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.1] C:\Users\carlo\.android\build-cache\2cf6add56d3a520f0bf91e2f36c709fed99a1686\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\carlo\.android\build-cache\44a7ed80339a6fce70a2e8504626f997426829f8\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\carlo\.android\build-cache\8a22c8c5f62ac1bfb7fdd7b6c53484bc12a44b26\output\AndroidManifest.xml:21:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\carlo\.android\build-cache\8a22c8c5f62ac1bfb7fdd7b6c53484bc12a44b26\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.1] C:\Users\carlo\.android\build-cache\2cf6add56d3a520f0bf91e2f36c709fed99a1686\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\carlo\.android\build-cache\44a7ed80339a6fce70a2e8504626f997426829f8\output\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\carlo\.android\build-cache\8a22c8c5f62ac1bfb7fdd7b6c53484bc12a44b26\output\AndroidManifest.xml:22:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\carlo\.android\build-cache\8a22c8c5f62ac1bfb7fdd7b6c53484bc12a44b26\output\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.1] C:\Users\carlo\.android\build-cache\2cf6add56d3a520f0bf91e2f36c709fed99a1686\output\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\carlo\.android\build-cache\8a22c8c5f62ac1bfb7fdd7b6c53484bc12a44b26\output\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\carlo\.android\build-cache\8a22c8c5f62ac1bfb7fdd7b6c53484bc12a44b26\output\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\carlo\.android\build-cache\8a22c8c5f62ac1bfb7fdd7b6c53484bc12a44b26\output\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\carlo\.android\build-cache\8a22c8c5f62ac1bfb7fdd7b6c53484bc12a44b26\output\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\carlo\.android\build-cache\8a22c8c5f62ac1bfb7fdd7b6c53484bc12a44b26\output\AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\carlo\.android\build-cache\8a22c8c5f62ac1bfb7fdd7b6c53484bc12a44b26\output\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\carlo\.android\build-cache\8a22c8c5f62ac1bfb7fdd7b6c53484bc12a44b26\output\AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\carlo\.android\build-cache\8a22c8c5f62ac1bfb7fdd7b6c53484bc12a44b26\output\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\carlo\.android\build-cache\8a22c8c5f62ac1bfb7fdd7b6c53484bc12a44b26\output\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\carlo\.android\build-cache\8a22c8c5f62ac1bfb7fdd7b6c53484bc12a44b26\output\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\carlo\.android\build-cache\8a22c8c5f62ac1bfb7fdd7b6c53484bc12a44b26\output\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:9.6.1] C:\Users\carlo\.android\build-cache\2cf6add56d3a520f0bf91e2f36c709fed99a1686\output\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\carlo\.android\build-cache\8a22c8c5f62ac1bfb7fdd7b6c53484bc12a44b26\output\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\carlo\.android\build-cache\8a22c8c5f62ac1bfb7fdd7b6c53484bc12a44b26\output\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.6.1] C:\Users\carlo\.android\build-cache\8a22c8c5f62ac1bfb7fdd7b6c53484bc12a44b26\output\AndroidManifest.xml:32:16-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\carlo\.android\build-cache\44a7ed80339a6fce70a2e8504626f997426829f8\output\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\carlo\.android\build-cache\44a7ed80339a6fce70a2e8504626f997426829f8\output\AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\carlo\.android\build-cache\44a7ed80339a6fce70a2e8504626f997426829f8\output\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\carlo\.android\build-cache\44a7ed80339a6fce70a2e8504626f997426829f8\output\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\carlo\.android\build-cache\44a7ed80339a6fce70a2e8504626f997426829f8\output\AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\carlo\.android\build-cache\44a7ed80339a6fce70a2e8504626f997426829f8\output\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\carlo\.android\build-cache\44a7ed80339a6fce70a2e8504626f997426829f8\output\AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\carlo\.android\build-cache\44a7ed80339a6fce70a2e8504626f997426829f8\output\AndroidManifest.xml:30:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\carlo\.android\build-cache\44a7ed80339a6fce70a2e8504626f997426829f8\output\AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\carlo\.android\build-cache\44a7ed80339a6fce70a2e8504626f997426829f8\output\AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\carlo\.android\build-cache\44a7ed80339a6fce70a2e8504626f997426829f8\output\AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\carlo\.android\build-cache\44a7ed80339a6fce70a2e8504626f997426829f8\output\AndroidManifest.xml:31:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\carlo\.android\build-cache\44a7ed80339a6fce70a2e8504626f997426829f8\output\AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\carlo\.android\build-cache\44a7ed80339a6fce70a2e8504626f997426829f8\output\AndroidManifest.xml:32:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\carlo\.android\build-cache\44a7ed80339a6fce70a2e8504626f997426829f8\output\AndroidManifest.xml:33:17-85
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\carlo\.android\build-cache\44a7ed80339a6fce70a2e8504626f997426829f8\output\AndroidManifest.xml:33:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\carlo\.android\build-cache\44a7ed80339a6fce70a2e8504626f997426829f8\output\AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\carlo\.android\build-cache\44a7ed80339a6fce70a2e8504626f997426829f8\output\AndroidManifest.xml:34:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\carlo\.android\build-cache\44a7ed80339a6fce70a2e8504626f997426829f8\output\AndroidManifest.xml:40:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\carlo\.android\build-cache\44a7ed80339a6fce70a2e8504626f997426829f8\output\AndroidManifest.xml:40:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\carlo\.android\build-cache\44a7ed80339a6fce70a2e8504626f997426829f8\output\AndroidManifest.xml:40:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\carlo\.android\build-cache\44a7ed80339a6fce70a2e8504626f997426829f8\output\AndroidManifest.xml:44:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\carlo\.android\build-cache\44a7ed80339a6fce70a2e8504626f997426829f8\output\AndroidManifest.xml:44:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.6.1] C:\Users\carlo\.android\build-cache\44a7ed80339a6fce70a2e8504626f997426829f8\output\AndroidManifest.xml:44:18-82
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.6.1] C:\Users\carlo\.android\build-cache\8b13c6dff866aac9d6a546acf55bf5786fdc2eff\output\AndroidManifest.xml:6:9-175
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.6.1] C:\Users\carlo\.android\build-cache\8b13c6dff866aac9d6a546acf55bf5786fdc2eff\output\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.6.1] C:\Users\carlo\.android\build-cache\8b13c6dff866aac9d6a546acf55bf5786fdc2eff\output\AndroidManifest.xml:6:125-149
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.6.1] C:\Users\carlo\.android\build-cache\8b13c6dff866aac9d6a546acf55bf5786fdc2eff\output\AndroidManifest.xml:6:150-173
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.6.1] C:\Users\carlo\.android\build-cache\8b13c6dff866aac9d6a546acf55bf5786fdc2eff\output\AndroidManifest.xml:6:79-124
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:9.6.1] C:\Users\carlo\.android\build-cache\9dc31c8ed42a641b872529053620cbf8bf5b15be\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:9.6.1] C:\Users\carlo\.android\build-cache\9dc31c8ed42a641b872529053620cbf8bf5b15be\output\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:9.6.1] C:\Users\carlo\.android\build-cache\9dc31c8ed42a641b872529053620cbf8bf5b15be\output\AndroidManifest.xml:20:20-65

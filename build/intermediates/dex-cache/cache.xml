@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\carlo\AndroidStudioProjects\MyHubNotification\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8bad540cce97150c4b2cbdb2b10c7d97d5b9351b">
+        <dex dex="C:\Users\carlo\AndroidStudioProjects\MyHubNotification\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_a737daff4a12f522a61c1404b2da7b4b63a4a48b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\carlo\AndroidStudioProjects\MyHubNotification\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\carlo\AndroidStudioProjects\MyHubNotification\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_72fc0740c2e39f89846e29a68ef24821f471de67\classes.dex" />
+    </item>
+
+</items>
